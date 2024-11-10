@@ -6,7 +6,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 w-full z-50 p-4 flex justify-center items-center">
       <Link href="/">
         {" "}
-        <Image src="/logo.png" width={600} height={200} alt="logo" />
+        <Image src="/logo.png" width={400} height={200} alt="logo" />
       </Link>
     </header>
   );
